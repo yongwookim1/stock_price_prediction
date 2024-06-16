@@ -1,6 +1,17 @@
 # Stock price prediction model
 Predict the stock price of 'Samsung Electronics' with news data.
-Run on Colab.
+
+## Overview
+![Bigdata_Project](https://github.com/yongwookim1/stock_price_prediction/assets/113939970/c9181ed6-61c4-4980-a952-7640b5555c6f)
+
+## Run on Colab
+news_crawling.ipynb: <a target="_blank" href="https://colab.research.google.com/github/yongwookim1/stock_price_prediction/blob/master/news_crawling.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+stock_price_prediction.ipynb: <a target="_blank" href="https://colab.research.google.com/github/yongwookim1/stock_price_prediction/blob/master/stock_price_prediction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## License
 
