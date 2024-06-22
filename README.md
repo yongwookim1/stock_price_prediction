@@ -1,4 +1,4 @@
-# Stock price prediction model
+# Stock Price Prediction Model
 Predict the stock price of 'Samsung Electronics' with news data.
 
 ## Overview
